@@ -5,9 +5,12 @@
     "category": "assist",
     "url": "https://chatgpt.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": true,
+    "pricingSource": "https://chatgpt.com/pricing/",
+    "pricingNote": "تصنيف مؤكد من صفحة رسمية"
   },
   {
     "id": "assist-2",
@@ -15,9 +18,12 @@
     "category": "assist",
     "url": "https://claude.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": true,
+    "pricingSource": "https://claude.com/pricing",
+    "pricingNote": "تصنيف مؤكد من صفحة رسمية"
   },
   {
     "id": "assist-3",
@@ -25,9 +31,12 @@
     "category": "assist",
     "url": "https://gemini.google.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-4",
@@ -35,9 +44,12 @@
     "category": "assist",
     "url": "https://perplexity.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-5",
@@ -45,9 +57,12 @@
     "category": "assist",
     "url": "https://copilot.microsoft.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-6",
@@ -55,9 +70,12 @@
     "category": "assist",
     "url": "https://poe.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-7",
@@ -65,9 +83,12 @@
     "category": "assist",
     "url": "https://you.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-8",
@@ -75,9 +96,12 @@
     "category": "assist",
     "url": "https://chat.deepseek.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-9",
@@ -85,9 +109,12 @@
     "category": "assist",
     "url": "https://grok.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-10",
@@ -95,9 +122,12 @@
     "category": "assist",
     "url": "https://chat.mistral.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-11",
@@ -105,9 +135,12 @@
     "category": "assist",
     "url": "https://jasper.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-12",
@@ -115,9 +148,12 @@
     "category": "assist",
     "url": "https://copy.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-13",
@@ -125,9 +161,12 @@
     "category": "assist",
     "url": "https://writesonic.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-14",
@@ -135,9 +174,12 @@
     "category": "assist",
     "url": "https://grammarly.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-15",
@@ -145,9 +187,12 @@
     "category": "assist",
     "url": "https://quillbot.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-16",
@@ -155,9 +200,12 @@
     "category": "assist",
     "url": "https://wordtune.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-17",
@@ -165,9 +213,12 @@
     "category": "assist",
     "url": "https://rytr.me",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-18",
@@ -175,9 +226,12 @@
     "category": "assist",
     "url": "https://sudowrite.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-19",
@@ -185,9 +239,12 @@
     "category": "assist",
     "url": "https://hyperwriteai.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-20",
@@ -195,9 +252,12 @@
     "category": "assist",
     "url": "https://jenni.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-21",
@@ -205,9 +265,12 @@
     "category": "assist",
     "url": "https://notion.so",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-22",
@@ -215,9 +278,12 @@
     "category": "assist",
     "url": "https://deepl.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-23",
@@ -225,9 +291,12 @@
     "category": "assist",
     "url": "https://translate.google.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-24",
@@ -235,9 +304,12 @@
     "category": "assist",
     "url": "https://reverso.net",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-25",
@@ -245,9 +317,12 @@
     "category": "assist",
     "url": "https://languagetool.org",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-26",
@@ -255,9 +330,12 @@
     "category": "assist",
     "url": "https://hemingwayapp.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-27",
@@ -265,9 +343,12 @@
     "category": "assist",
     "url": "https://prowritingaid.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-28",
@@ -275,9 +356,12 @@
     "category": "assist",
     "url": "https://novelai.net",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-29",
@@ -285,9 +369,12 @@
     "category": "assist",
     "url": "https://character.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-30",
@@ -295,9 +382,12 @@
     "category": "assist",
     "url": "https://pi.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-31",
@@ -305,9 +395,12 @@
     "category": "assist",
     "url": "https://replika.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-32",
@@ -315,9 +408,12 @@
     "category": "assist",
     "url": "https://elicit.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-33",
@@ -325,9 +421,12 @@
     "category": "assist",
     "url": "https://consensus.app",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-34",
@@ -335,9 +434,12 @@
     "category": "assist",
     "url": "https://typeset.io",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-35",
@@ -345,9 +447,12 @@
     "category": "assist",
     "url": "https://semanticscholar.org",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-36",
@@ -355,9 +460,12 @@
     "category": "assist",
     "url": "https://researchrabbit.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-37",
@@ -365,9 +473,12 @@
     "category": "assist",
     "url": "https://connectedpapers.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-38",
@@ -375,9 +486,12 @@
     "category": "assist",
     "url": "https://scite.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-39",
@@ -385,9 +499,12 @@
     "category": "assist",
     "url": "https://explainpaper.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-40",
@@ -395,9 +512,12 @@
     "category": "assist",
     "url": "https://scholarcy.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-41",
@@ -405,9 +525,12 @@
     "category": "assist",
     "url": "https://humata.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-42",
@@ -415,9 +538,12 @@
     "category": "assist",
     "url": "https://chatpdf.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-43",
@@ -425,9 +551,12 @@
     "category": "assist",
     "url": "https://askyourpdf.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-44",
@@ -435,9 +564,12 @@
     "category": "assist",
     "url": "https://pdf.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-45",
@@ -445,9 +577,12 @@
     "category": "assist",
     "url": "https://notebooklm.google.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-46",
@@ -455,9 +590,12 @@
     "category": "assist",
     "url": "https://otio.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-47",
@@ -465,9 +603,12 @@
     "category": "assist",
     "url": "https://mem.ai",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-48",
@@ -475,9 +616,12 @@
     "category": "assist",
     "url": "https://monica.im",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-49",
@@ -485,9 +629,12 @@
     "category": "assist",
     "url": "https://getmerlin.in",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "assist-50",
@@ -495,9 +642,12 @@
     "category": "assist",
     "url": "https://textcortex.com",
     "description": "مساعد ذكي للكتابة والبحث وصياغة الأفكار وتحسين الإنتاجية.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-1",
@@ -505,9 +655,12 @@
     "category": "design",
     "url": "https://midjourney.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": true,
+    "pricingSource": "https://docs.midjourney.com/hc/en-us/articles/27870399340173-Free-Trials",
+    "pricingNote": "تصنيف مؤكد من صفحة رسمية"
   },
   {
     "id": "design-2",
@@ -515,9 +668,12 @@
     "category": "design",
     "url": "https://firefly.adobe.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-3",
@@ -525,9 +681,12 @@
     "category": "design",
     "url": "https://leonardo.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-4",
@@ -535,9 +694,12 @@
     "category": "design",
     "url": "https://ideogram.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-5",
@@ -545,9 +707,12 @@
     "category": "design",
     "url": "https://canva.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-6",
@@ -555,9 +720,12 @@
     "category": "design",
     "url": "https://designer.microsoft.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-7",
@@ -565,9 +733,12 @@
     "category": "design",
     "url": "https://recraft.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-8",
@@ -575,9 +746,12 @@
     "category": "design",
     "url": "https://krea.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-9",
@@ -585,9 +759,12 @@
     "category": "design",
     "url": "https://freepik.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-10",
@@ -595,9 +772,12 @@
     "category": "design",
     "url": "https://openart.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-11",
@@ -605,9 +785,12 @@
     "category": "design",
     "url": "https://playground.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-12",
@@ -615,9 +798,12 @@
     "category": "design",
     "url": "https://nightcafe.studio",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-13",
@@ -625,9 +811,12 @@
     "category": "design",
     "url": "https://dreamstudio.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-14",
@@ -635,9 +824,12 @@
     "category": "design",
     "url": "https://mage.space",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-15",
@@ -645,9 +837,12 @@
     "category": "design",
     "url": "https://seaart.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-16",
@@ -655,9 +850,12 @@
     "category": "design",
     "url": "https://tensor.art",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-17",
@@ -665,9 +863,12 @@
     "category": "design",
     "url": "https://civitai.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-18",
@@ -675,9 +876,12 @@
     "category": "design",
     "url": "https://lexica.art",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-19",
@@ -685,9 +889,12 @@
     "category": "design",
     "url": "https://artbreeder.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-20",
@@ -695,9 +902,12 @@
     "category": "design",
     "url": "https://deepdreamgenerator.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-21",
@@ -705,9 +915,12 @@
     "category": "design",
     "url": "https://starryai.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-22",
@@ -715,9 +928,12 @@
     "category": "design",
     "url": "https://imagine.art",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-23",
@@ -725,9 +941,12 @@
     "category": "design",
     "url": "https://getimg.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-24",
@@ -735,9 +954,12 @@
     "category": "design",
     "url": "https://dzine.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-25",
@@ -745,9 +967,12 @@
     "category": "design",
     "url": "https://photoroom.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-26",
@@ -755,9 +980,12 @@
     "category": "design",
     "url": "https://remove.bg",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-27",
@@ -765,9 +993,12 @@
     "category": "design",
     "url": "https://cleanup.pictures",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-28",
@@ -775,9 +1006,12 @@
     "category": "design",
     "url": "https://clipdrop.co",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-29",
@@ -785,9 +1019,12 @@
     "category": "design",
     "url": "https://letsenhance.io",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-30",
@@ -795,9 +1032,12 @@
     "category": "design",
     "url": "https://upscayl.org",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-31",
@@ -805,9 +1045,12 @@
     "category": "design",
     "url": "https://topazlabs.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-32",
@@ -815,9 +1058,12 @@
     "category": "design",
     "url": "https://magnific.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-33",
@@ -825,9 +1071,12 @@
     "category": "design",
     "url": "https://flair.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-34",
@@ -835,9 +1084,12 @@
     "category": "design",
     "url": "https://pebblely.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-35",
@@ -845,9 +1097,12 @@
     "category": "design",
     "url": "https://booth.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-36",
@@ -855,9 +1110,12 @@
     "category": "design",
     "url": "https://looka.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-37",
@@ -865,9 +1123,12 @@
     "category": "design",
     "url": "https://brandmark.io",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-38",
@@ -875,9 +1136,12 @@
     "category": "design",
     "url": "https://logoai.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-39",
@@ -885,9 +1149,12 @@
     "category": "design",
     "url": "https://designs.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-40",
@@ -895,9 +1162,12 @@
     "category": "design",
     "url": "https://uizard.io",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-41",
@@ -907,7 +1177,10 @@
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
     "pricing": "غير محدد",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-42",
@@ -915,9 +1188,12 @@
     "category": "design",
     "url": "https://visily.ai",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-43",
@@ -925,9 +1201,12 @@
     "category": "design",
     "url": "https://khroma.co",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-44",
@@ -935,9 +1214,12 @@
     "category": "design",
     "url": "https://fontjoy.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-45",
@@ -945,9 +1227,12 @@
     "category": "design",
     "url": "https://autodraw.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-46",
@@ -955,9 +1240,12 @@
     "category": "design",
     "url": "https://nvidia.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-47",
@@ -965,9 +1253,12 @@
     "category": "design",
     "url": "https://fotor.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-48",
@@ -975,9 +1266,12 @@
     "category": "design",
     "url": "https://pixlr.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-49",
@@ -985,9 +1279,12 @@
     "category": "design",
     "url": "https://picsart.com",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "design-50",
@@ -995,9 +1292,12 @@
     "category": "design",
     "url": "https://cutout.pro",
     "description": "أداة لإنشاء أو تحسين الصور والتصاميم والمحتوى البصري.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-1",
@@ -1005,9 +1305,12 @@
     "category": "video",
     "url": "https://runwayml.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-2",
@@ -1015,9 +1318,12 @@
     "category": "video",
     "url": "https://pika.art",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-3",
@@ -1025,9 +1331,12 @@
     "category": "video",
     "url": "https://klingai.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-4",
@@ -1035,9 +1344,12 @@
     "category": "video",
     "url": "https://lumalabs.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-5",
@@ -1045,9 +1357,12 @@
     "category": "video",
     "url": "https://heygen.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-6",
@@ -1055,9 +1370,12 @@
     "category": "video",
     "url": "https://synthesia.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-7",
@@ -1065,9 +1383,12 @@
     "category": "video",
     "url": "https://invideo.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-8",
@@ -1075,9 +1396,12 @@
     "category": "video",
     "url": "https://elevenlabs.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-9",
@@ -1085,9 +1409,12 @@
     "category": "video",
     "url": "https://suno.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-10",
@@ -1095,9 +1422,12 @@
     "category": "video",
     "url": "https://descript.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-11",
@@ -1105,9 +1435,12 @@
     "category": "video",
     "url": "https://veed.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-12",
@@ -1115,9 +1448,12 @@
     "category": "video",
     "url": "https://kapwing.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-13",
@@ -1125,9 +1461,12 @@
     "category": "video",
     "url": "https://opus.pro",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-14",
@@ -1135,9 +1474,12 @@
     "category": "video",
     "url": "https://vizard.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-15",
@@ -1145,9 +1487,12 @@
     "category": "video",
     "url": "https://wisecut.video",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-16",
@@ -1155,9 +1500,12 @@
     "category": "video",
     "url": "https://pictory.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-17",
@@ -1165,9 +1513,12 @@
     "category": "video",
     "url": "https://fliki.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-18",
@@ -1175,9 +1526,12 @@
     "category": "video",
     "url": "https://steve.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-19",
@@ -1185,9 +1539,12 @@
     "category": "video",
     "url": "https://colossyan.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-20",
@@ -1195,9 +1552,12 @@
     "category": "video",
     "url": "https://elai.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-21",
@@ -1205,9 +1565,12 @@
     "category": "video",
     "url": "https://d-id.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-22",
@@ -1215,9 +1578,12 @@
     "category": "video",
     "url": "https://hourone.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-23",
@@ -1225,9 +1591,12 @@
     "category": "video",
     "url": "https://deepbrain.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-24",
@@ -1235,9 +1604,12 @@
     "category": "video",
     "url": "https://captions.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-25",
@@ -1245,9 +1617,12 @@
     "category": "video",
     "url": "https://riverside.fm",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-26",
@@ -1255,9 +1630,12 @@
     "category": "video",
     "url": "https://podcastle.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-27",
@@ -1265,9 +1643,12 @@
     "category": "video",
     "url": "https://podcast.adobe.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-28",
@@ -1275,9 +1656,12 @@
     "category": "video",
     "url": "https://auphonic.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-29",
@@ -1285,9 +1669,12 @@
     "category": "video",
     "url": "https://cleanvoice.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-30",
@@ -1295,9 +1682,12 @@
     "category": "video",
     "url": "https://krisp.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-31",
@@ -1305,9 +1695,12 @@
     "category": "video",
     "url": "https://murf.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-32",
@@ -1315,9 +1708,12 @@
     "category": "video",
     "url": "https://play.ht",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-33",
@@ -1325,9 +1721,12 @@
     "category": "video",
     "url": "https://wellsaidlabs.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-34",
@@ -1335,9 +1734,12 @@
     "category": "video",
     "url": "https://speechify.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-35",
@@ -1345,9 +1747,12 @@
     "category": "video",
     "url": "https://lovo.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-36",
@@ -1355,9 +1760,12 @@
     "category": "video",
     "url": "https://resemble.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-37",
@@ -1365,9 +1773,12 @@
     "category": "video",
     "url": "https://uberduck.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-38",
@@ -1375,9 +1786,12 @@
     "category": "video",
     "url": "https://voice.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-39",
@@ -1385,9 +1799,12 @@
     "category": "video",
     "url": "https://voicemod.net",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-40",
@@ -1395,9 +1812,12 @@
     "category": "video",
     "url": "https://soundraw.io",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-41",
@@ -1405,9 +1825,12 @@
     "category": "video",
     "url": "https://aiva.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-42",
@@ -1415,9 +1838,12 @@
     "category": "video",
     "url": "https://beatoven.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-43",
@@ -1425,9 +1851,12 @@
     "category": "video",
     "url": "https://loudly.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-44",
@@ -1435,9 +1864,12 @@
     "category": "video",
     "url": "https://boomy.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-45",
@@ -1445,9 +1877,12 @@
     "category": "video",
     "url": "https://udio.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-46",
@@ -1455,9 +1890,12 @@
     "category": "video",
     "url": "https://mubert.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-47",
@@ -1465,9 +1903,12 @@
     "category": "video",
     "url": "https://kaiber.ai",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-48",
@@ -1475,9 +1916,12 @@
     "category": "video",
     "url": "https://wonderdynamics.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-49",
@@ -1485,9 +1929,12 @@
     "category": "video",
     "url": "https://topazlabs.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "video-50",
@@ -1495,9 +1942,12 @@
     "category": "video",
     "url": "https://filmora.wondershare.com",
     "description": "أداة لإنتاج أو تحرير الفيديو والصوت والمحتوى الإبداعي.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-1",
@@ -1505,9 +1955,12 @@
     "category": "coding",
     "url": "https://github.com/features/copilot",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-2",
@@ -1515,9 +1968,12 @@
     "category": "coding",
     "url": "https://cursor.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-3",
@@ -1525,9 +1981,12 @@
     "category": "coding",
     "url": "https://replit.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-4",
@@ -1535,9 +1994,12 @@
     "category": "coding",
     "url": "https://bolt.new",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-5",
@@ -1545,9 +2007,12 @@
     "category": "coding",
     "url": "https://lovable.dev",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-6",
@@ -1555,9 +2020,12 @@
     "category": "coding",
     "url": "https://v0.app",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-7",
@@ -1565,9 +2033,12 @@
     "category": "coding",
     "url": "https://windsurf.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-8",
@@ -1575,9 +2046,12 @@
     "category": "coding",
     "url": "https://tabnine.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-9",
@@ -1585,9 +2059,12 @@
     "category": "coding",
     "url": "https://coderabbit.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-10",
@@ -1595,9 +2072,12 @@
     "category": "coding",
     "url": "https://aws.amazon.com/q/developer",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-11",
@@ -1605,9 +2085,12 @@
     "category": "coding",
     "url": "https://sourcegraph.com/cody",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-12",
@@ -1615,9 +2098,12 @@
     "category": "coding",
     "url": "https://continue.dev",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-13",
@@ -1625,9 +2111,12 @@
     "category": "coding",
     "url": "https://aider.chat",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-14",
@@ -1635,9 +2124,12 @@
     "category": "coding",
     "url": "https://cline.bot",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-15",
@@ -1645,9 +2137,12 @@
     "category": "coding",
     "url": "https://roocode.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-16",
@@ -1655,9 +2150,12 @@
     "category": "coding",
     "url": "https://all-hands.dev",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-17",
@@ -1665,9 +2163,12 @@
     "category": "coding",
     "url": "https://devin.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-18",
@@ -1675,9 +2176,12 @@
     "category": "coding",
     "url": "https://qodo.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-19",
@@ -1685,9 +2189,12 @@
     "category": "coding",
     "url": "https://snyk.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-20",
@@ -1695,9 +2202,12 @@
     "category": "coding",
     "url": "https://codacy.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-21",
@@ -1707,7 +2217,10 @@
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
     "pricing": "غير محدد",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-22",
@@ -1715,9 +2228,12 @@
     "category": "coding",
     "url": "https://sonarsource.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-23",
@@ -1725,9 +2241,12 @@
     "category": "coding",
     "url": "https://jetbrains.com/ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-24",
@@ -1735,9 +2254,12 @@
     "category": "coding",
     "url": "https://zed.dev",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-25",
@@ -1745,9 +2267,12 @@
     "category": "coding",
     "url": "https://trae.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-26",
@@ -1755,9 +2280,12 @@
     "category": "coding",
     "url": "https://codeium.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-27",
@@ -1765,9 +2293,12 @@
     "category": "coding",
     "url": "https://blackbox.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-28",
@@ -1775,9 +2306,12 @@
     "category": "coding",
     "url": "https://askcodi.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-29",
@@ -1785,9 +2319,12 @@
     "category": "coding",
     "url": "https://bito.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-30",
@@ -1795,9 +2332,12 @@
     "category": "coding",
     "url": "https://pieces.app",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-31",
@@ -1807,7 +2347,10 @@
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
     "pricing": "غير محدد",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-32",
@@ -1815,9 +2358,12 @@
     "category": "coding",
     "url": "https://codegeex.cn",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-33",
@@ -1825,9 +2371,12 @@
     "category": "coding",
     "url": "https://marscode.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-34",
@@ -1835,9 +2384,12 @@
     "category": "coding",
     "url": "https://codewp.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-35",
@@ -1845,9 +2397,12 @@
     "category": "coding",
     "url": "https://locofy.ai",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-36",
@@ -1855,9 +2410,12 @@
     "category": "coding",
     "url": "https://animaapp.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-37",
@@ -1865,9 +2423,12 @@
     "category": "coding",
     "url": "https://builder.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-38",
@@ -1875,9 +2436,12 @@
     "category": "coding",
     "url": "https://flutterflow.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-39",
@@ -1885,9 +2449,12 @@
     "category": "coding",
     "url": "https://bubble.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-40",
@@ -1895,9 +2462,12 @@
     "category": "coding",
     "url": "https://softr.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-41",
@@ -1905,9 +2475,12 @@
     "category": "coding",
     "url": "https://glideapps.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-42",
@@ -1915,9 +2488,12 @@
     "category": "coding",
     "url": "https://retool.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-43",
@@ -1925,9 +2501,12 @@
     "category": "coding",
     "url": "https://appsmith.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-44",
@@ -1935,9 +2514,12 @@
     "category": "coding",
     "url": "https://tooljet.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-45",
@@ -1945,9 +2527,12 @@
     "category": "coding",
     "url": "https://budibase.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-46",
@@ -1955,9 +2540,12 @@
     "category": "coding",
     "url": "https://framer.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-47",
@@ -1965,9 +2553,12 @@
     "category": "coding",
     "url": "https://webflow.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-48",
@@ -1975,9 +2566,12 @@
     "category": "coding",
     "url": "https://durable.co",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-49",
@@ -1985,9 +2579,12 @@
     "category": "coding",
     "url": "https://10web.io",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "coding-50",
@@ -1995,9 +2592,12 @@
     "category": "coding",
     "url": "https://hostinger.com",
     "description": "حل يساعد المطورين على بناء المواقع والتطبيقات وتحسين الأكواد.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-1",
@@ -2005,9 +2605,12 @@
     "category": "productivity",
     "url": "https://notion.so",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-2",
@@ -2015,9 +2618,12 @@
     "category": "productivity",
     "url": "https://gamma.app",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-3",
@@ -2025,9 +2631,12 @@
     "category": "productivity",
     "url": "https://zapier.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-4",
@@ -2035,9 +2644,12 @@
     "category": "productivity",
     "url": "https://make.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-5",
@@ -2045,9 +2657,12 @@
     "category": "productivity",
     "url": "https://n8n.io",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-6",
@@ -2055,9 +2670,12 @@
     "category": "productivity",
     "url": "https://hubspot.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-7",
@@ -2065,9 +2683,12 @@
     "category": "productivity",
     "url": "https://adcreative.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-8",
@@ -2075,9 +2696,12 @@
     "category": "productivity",
     "url": "https://surferseo.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-9",
@@ -2085,9 +2709,12 @@
     "category": "productivity",
     "url": "https://otter.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-10",
@@ -2095,9 +2722,12 @@
     "category": "productivity",
     "url": "https://fireflies.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": true,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-11",
@@ -2105,9 +2735,12 @@
     "category": "productivity",
     "url": "https://tome.app",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-12",
@@ -2115,9 +2748,12 @@
     "category": "productivity",
     "url": "https://beautiful.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-13",
@@ -2125,9 +2761,12 @@
     "category": "productivity",
     "url": "https://pitch.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-14",
@@ -2135,9 +2774,12 @@
     "category": "productivity",
     "url": "https://slidesai.io",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-15",
@@ -2145,9 +2787,12 @@
     "category": "productivity",
     "url": "https://plusai.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-16",
@@ -2155,9 +2800,12 @@
     "category": "productivity",
     "url": "https://decktopus.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-17",
@@ -2165,9 +2813,12 @@
     "category": "productivity",
     "url": "https://presentations.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-18",
@@ -2175,9 +2826,12 @@
     "category": "productivity",
     "url": "https://clickup.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-19",
@@ -2185,9 +2839,12 @@
     "category": "productivity",
     "url": "https://asana.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-20",
@@ -2195,9 +2852,12 @@
     "category": "productivity",
     "url": "https://taskade.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-21",
@@ -2205,9 +2865,12 @@
     "category": "productivity",
     "url": "https://usemotion.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-22",
@@ -2215,9 +2878,12 @@
     "category": "productivity",
     "url": "https://reclaim.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-23",
@@ -2225,9 +2891,12 @@
     "category": "productivity",
     "url": "https://clockwise.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-24",
@@ -2235,9 +2904,12 @@
     "category": "productivity",
     "url": "https://mem.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-25",
@@ -2245,9 +2917,12 @@
     "category": "productivity",
     "url": "https://reflect.app",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-26",
@@ -2255,9 +2930,12 @@
     "category": "productivity",
     "url": "https://read.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-27",
@@ -2265,9 +2943,12 @@
     "category": "productivity",
     "url": "https://fathom.video",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-28",
@@ -2275,9 +2956,12 @@
     "category": "productivity",
     "url": "https://tldv.io",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-29",
@@ -2285,9 +2969,12 @@
     "category": "productivity",
     "url": "https://sembly.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-30",
@@ -2295,9 +2982,12 @@
     "category": "productivity",
     "url": "https://avoma.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-31",
@@ -2305,9 +2995,12 @@
     "category": "productivity",
     "url": "https://bardeen.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-32",
@@ -2315,9 +3008,12 @@
     "category": "productivity",
     "url": "https://lindy.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-33",
@@ -2325,9 +3021,12 @@
     "category": "productivity",
     "url": "https://relay.app",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-34",
@@ -2335,9 +3034,12 @@
     "category": "productivity",
     "url": "https://gumloop.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-35",
@@ -2345,9 +3047,12 @@
     "category": "productivity",
     "url": "https://activepieces.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-36",
@@ -2355,9 +3060,12 @@
     "category": "productivity",
     "url": "https://airtable.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-37",
@@ -2365,9 +3073,12 @@
     "category": "productivity",
     "url": "https://rows.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-38",
@@ -2375,9 +3086,12 @@
     "category": "productivity",
     "url": "https://numerous.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-39",
@@ -2385,9 +3099,12 @@
     "category": "productivity",
     "url": "https://julius.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-40",
@@ -2395,9 +3112,12 @@
     "category": "productivity",
     "url": "https://obviously.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-41",
@@ -2405,9 +3125,12 @@
     "category": "productivity",
     "url": "https://akkio.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-42",
@@ -2415,9 +3138,12 @@
     "category": "productivity",
     "url": "https://browse.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-43",
@@ -2425,9 +3151,12 @@
     "category": "productivity",
     "url": "https://octoparse.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-44",
@@ -2437,7 +3166,10 @@
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
     "pricing": "غير محدد",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-45",
@@ -2445,9 +3177,12 @@
     "category": "productivity",
     "url": "https://semrush.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-46",
@@ -2455,9 +3190,12 @@
     "category": "productivity",
     "url": "https://ahrefs.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-47",
@@ -2465,9 +3203,12 @@
     "category": "productivity",
     "url": "https://frase.io",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-48",
@@ -2475,9 +3216,12 @@
     "category": "productivity",
     "url": "https://clearscope.io",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-49",
@@ -2485,9 +3229,12 @@
     "category": "productivity",
     "url": "https://predis.ai",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   },
   {
     "id": "productivity-50",
@@ -2495,8 +3242,11 @@
     "category": "productivity",
     "url": "https://ocoya.com",
     "description": "منصة لتحسين التسويق والإنتاجية وسير العمل والأتمتة.",
-    "pricing": "غير محدد",
+    "pricing": "مجاني ومدفوع",
     "featured": false,
-    "added": "2026-11-09"
+    "added": "2026-11-09",
+    "pricingVerified": false,
+    "pricingSource": "",
+    "pricingNote": "تصنيف أولي غير مدقق؛ راجع موقع الأداة قبل الاشتراك"
   }
 ]
